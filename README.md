@@ -9,14 +9,14 @@ HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIB
 
 | Serial No. | Repository| Link to Issue  | Language |
 |:--|:--|:--|:--|
-| 1. | [Netflix Clone](https://github.com/ElixirTechCommunity/Netflix-clone) | [Added Documentation](https://github.com/ElixirTechCommunity/Netflix-clone/issues) | Website  |
-| 2. | [Music Player](https://github.com/ElixirTechCommunity/Music) | [Code in Frontend + Backend](https://github.com/ElixirTechCommunity/Music/issues) | Python  |
-| 3. | [Youtube Downloader](https://github.com/ElixirTechCommunity/youtube-downloader) | [Code in Frontend + Backend](https://github.com/ElixirTechCommunity/youtube-downloader/issues) | Python |
-| 4. | [Java Projects](https://github.com/ElixirTechCommunity/java-projects) | [Code in Frontend + Backend](https://github.com/ElixirTechCommunity/java-projects/issues) | Java  |
-| 5. | [Blogging](https://github.com/ElixirTechCommunity/Blogging) | [Code in Frontend + Backend](https://github.com/ElixirTechCommunity/Blogging/issues) | Website  |
-| 6. | [Encryptor-Decryptor](https://github.com/ElixirTechCommunity/EncryptDecrypt) | [Code in Frontend + Backend](https://github.com/ElixirTechCommunity/EncryptDecrypt/issues) | Python  |
-| 7. | [State Your Name](https://github.com/ElixirTechCommunity/StateYourName) | [Code in Frontend + Backend](https://github.com/RamGoel/cdnExtension/issues) | Website  |
-| 8. | [Salon](https://github.com/ElixirTechCommunity/salon) | [Code in Frontend + Backend](https://github.com/RamGoel/cdnExtension/issues) | Website  |
+| 1. | [Netflix Clone](https://github.com/ElixirTechCommunity/Netflix-clone) | [Click Here](https://github.com/ElixirTechCommunity/Netflix-clone/issues) | Website  |
+| 2. | [Music Player](https://github.com/ElixirTechCommunity/Music) | [Click Here](https://github.com/ElixirTechCommunity/Music/issues) | Python  |
+| 3. | [Youtube Downloader](https://github.com/ElixirTechCommunity/youtube-downloader) | [Click Here](https://github.com/ElixirTechCommunity/youtube-downloader/issues) | Python |
+| 4. | [Java Projects](https://github.com/ElixirTechCommunity/java-projects) | [Click Here](https://github.com/ElixirTechCommunity/java-projects/issues) | Java  |
+| 5. | [Blogging](https://github.com/ElixirTechCommunity/Blogging) | [Click Here](https://github.com/ElixirTechCommunity/Blogging/issues) | Website  |
+| 6. | [Encryptor-Decryptor](https://github.com/ElixirTechCommunity/EncryptDecrypt) | [Click Here](https://github.com/ElixirTechCommunity/EncryptDecrypt/issues) | Python  |
+| 7. | [State Your Name](https://github.com/ElixirTechCommunity/StateYourName) | [Click Here](https://github.com/RamGoel/cdnExtension/issues) | Website  |
+| 8. | [Salon](https://github.com/ElixirTechCommunity/salon) | [Click Here](https://github.com/RamGoel/cdnExtension/issues) | Website  |
 
 
 
@@ -42,4 +42,3 @@ HACKTOBERFEST IS DIGITALOCEAN’S ANNUAL EVENT THAT ENCOURAGES PEOPLE TO CONTRIB
 </p>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
-
